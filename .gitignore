@@ -1,0 +1,25 @@
+# 构建产物
+build/
+gen/
+bin/
+*.class
+*.dex
+*.apk
+*.idsig
+!apps/**/release/*.apk
+
+# 密钥
+*.jks
+*.keystore
+!apps/**/debug.keystore
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.DS_Store
+
+# 日志与临时
+*.log
+*.tmp
+/tmp/
