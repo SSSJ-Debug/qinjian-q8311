@@ -8,6 +8,8 @@
 >
 > 一句话：**ADB 不是没有，是只存在 8~14 秒。**
 
+<sub>仓库名 `qinjian-q8311` 读作「**亲见**」——GitHub 仓库名不支持中文字符，故用拼音代替。</sub>
+
 [![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Linux%20%7C%20Windows-lightgrey)](#平台差异)
 [![No Root](https://img.shields.io/badge/root-not%20required-success)](#)
 [![Android](https://img.shields.io/badge/android-4.4%20~%2010-blue)](#适用范围)
