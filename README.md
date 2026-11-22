@@ -1,7 +1,12 @@
-# android-adb-revive
+# 亲见 Q8311 智能音箱
 
-> **ADB 不是没有，是只存在 8~14 秒。**
-> 一套不拆机、不刷机、不 root，纯靠 USB 线 + 一个轮询脚本，把锁死的安卓设备重新拿到 ADB 权限的通用方法。
+> 一台锁在客厅角落的圆屏音箱，和一根数据线能做成的事。
+>
+> 本项目是 **亲见 Q8311**（Android 4.4.4 / 8 寸圆形屏 / 高通 MSM8909）的完整改造记录：
+> 核心是一套**不拆机、不刷机、不 root**，纯靠 USB 线 + 轮询脚本重新拿到 ADB 权限的通用方法，
+> 外加圆屏适配方案、实测可装应用清单，以及这台机器上踩过的所有坑。
+>
+> 一句话：**ADB 不是没有，是只存在 8~14 秒。**
 
 [![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Linux%20%7C%20Windows-lightgrey)](#平台差异)
 [![No Root](https://img.shields.io/badge/root-not%20required-success)](#)
